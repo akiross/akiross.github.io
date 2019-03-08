@@ -1,0 +1,3 @@
+[submodule "trillo-time-tracking-tool"]
+	path = trillo-time-tracking-tool
+	url = https://github.com/akiross/trillo-time-tracking-tool.git
